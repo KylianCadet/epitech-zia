@@ -1,0 +1,5 @@
+{
+	"moduleDir": "./build/modules/",
+	"port": 9000,
+	"hasEncryption": true
+}

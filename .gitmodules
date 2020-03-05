@@ -1,0 +1,3 @@
+[submodule "openZia"]
+	path = openZia
+	url = https://github.com/MatthieuMv/openZia.git
